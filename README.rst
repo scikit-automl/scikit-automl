@@ -1,13 +1,13 @@
 scikit-automl
 =========================
 
-scikit-automl is a SciPy Toolkit for AutoML.
+``scikit-automl`` is a SciPy Toolkit for AutoML.
 
 
 Installation 
 ---------------------
 
-Coming soon
+*Coming soon*
 
 
 License 

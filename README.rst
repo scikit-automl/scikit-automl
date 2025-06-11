@@ -14,6 +14,22 @@ scikit-automl
 
 |
 
+Downloading
+-------------------------
+
+To download this repository, there are currently two mains options:
+
+- Clone the repository either using `GitHub Desktop <https://desktop.github.com/>`_ or using the `command line (terminal) <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>`_ :
+
+  .. code::
+
+    git clone https://github.com/kourouklides/continual_auto_ml.git
+
+- Download the repository as a ZIP file, as described `here <https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives>`_
+
+You can choose whichever best suits your needs.
+
+**Note:** If you do not have Git on **Windows**, then you can download it `here <https://git-scm.com/download/win>`_.
 
 Setup and Installation
 -------------------------
@@ -22,7 +38,7 @@ Setup and Installation
 
 
 About
------
+-------------------------
 
 This repository was implemented using **Python 3**.
 

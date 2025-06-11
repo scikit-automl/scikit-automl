@@ -12,7 +12,7 @@ References
 Datasets
 --------
 
-See `Datasets <datasets/README.rst>`_
+See `Datasets <datasets/README.rst>`_.
 
 Libraries
 ---------

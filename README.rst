@@ -23,7 +23,7 @@ To download this repository, there are currently two mains options:
 
   .. code::
 
-    git clone https://github.com/kourouklides/continual_auto_ml.git
+    git clone https://github.com/scikit-automl/scikit-automl.git
 
 - Download the repository as a ZIP file, as described `here <https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives>`_
 

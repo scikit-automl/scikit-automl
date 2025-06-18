@@ -14,6 +14,16 @@ scikit-automl
 
 |
 
+AI Pipeline
+-------------------------
+
+.. raw:: html
+
+  <p align="left"><img src="doc/images/AI pipeline.png" alt="AI Pipeline" width="600"/>
+  </p>
+
+|
+
 Downloading
 -------------------------
 

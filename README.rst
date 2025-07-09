@@ -52,6 +52,20 @@ About
 
 This repository was implemented using **Python 3**.
 
+Minimum hardware and software requirements
+--------------------------------------------------
+
+Any Operating System from the following list that can run Python 3:
+
+- All major Linux distributions (after 2000)
+- All macOS (after 2010)
+- All MS Windows (after 2020)
+
+Minimum hardware requirements:
+
+- Any CPU (no GPU necessary)
+- 2GB RAM
+
 
 Acknowledgements
 -------------------------
